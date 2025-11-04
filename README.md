@@ -15,32 +15,38 @@ To draw the UML diagram for Hospital Management system
 
 1.USECASE DIAGRAM
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c66ab9e9-3bb0-4187-8e10-1604c9bb3486" />
+![1](https://github.com/user-attachments/assets/d2656ad9-3f84-4bd0-ba7f-f532e40b34eb)
 
 
 2.CLASS DIAGRAM
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/60caed34-01c5-4f69-8afe-e078b8e2c758" />
+![2](https://github.com/user-attachments/assets/8b58804a-5f0f-475c-b963-b2a8fb3c0e70)
+
 
 
 3.ACTIVITY DIAGRAM
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5924d793-d97d-4c3c-ab46-972e5b28b62a" />
+![3](https://github.com/user-attachments/assets/696e0148-737e-49b6-a065-dcb23b09e31f)
 
 
 4.COMMUNICATION DIAGRAM
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d75206ef-b73b-40bb-80d1-016539c43e5e" />
+![5](https://github.com/user-attachments/assets/7d7f5071-d2b7-4f69-8e46-ae6acebb1228)
+
 
 
 5.PACKAGE DIAGRAM
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7ee8143e-0749-4940-b764-760083857009" />
+
+
+![4](https://github.com/user-attachments/assets/7d9d3af1-3c8e-44d5-b230-835346a695e1)
+
 
  
 6.SEQUENCE DIAGRAM
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/68896a28-efd5-4c02-8d5b-4bddb9d10aee" />
+![6](https://github.com/user-attachments/assets/c7898b92-3136-4d8f-912d-0a7daeee8cf1)
+
 
 
 
